@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: pink;
+    color: black;
+
+}
+header {
+    background-color: rgb(187, 59, 155);
+    color:white;
+    text-align: center;
+    padding: 25px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: rgb(187, 59, 155);
+    padding: 15px 0;
+}
+nav ul li {
+    display:inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
